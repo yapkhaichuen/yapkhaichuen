@@ -168,6 +168,11 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+```text
+Markdown     12 mins         ███████████████▒░░░░░░░░░   61.32 % 
+CSS          5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.46 % 
+HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+```
 <!--END_SECTION:waka-->
 
 
