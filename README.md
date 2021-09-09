@@ -159,11 +159,13 @@
 
 
 
+## GitHub Stats
+<a href="https://github.com/yapkhaichuen">
 
+![](https://raw.githubusercontent.com/yapkhaichuen/GitHub-Stats/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/yapkhaichuen/GitHub-Stats/output/generated/languages.svg)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yapkhaichuen&show_icons=true&locale=en" alt="yapkhaichuen" /></p>
+</a>
 
 ## Coding Stats
 <!--START_SECTION:waka-->
