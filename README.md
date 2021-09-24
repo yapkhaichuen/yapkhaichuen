@@ -10,11 +10,11 @@
 
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top iOS 15 Features YOU Should Try Today!](https://www.youtube.com/watch?v=mPmvF-bEKQ8)
 - [Best Camera and Equipment for YouTube/Content Creation Beginners (Feat. Unreal Devon Wood)](https://www.youtube.com/watch?v=h4kXbEsj5o8)
 - [Windows 11 First Look: Minimal, beautiful and awesome.](https://www.youtube.com/watch?v=VHzDgxr8N8I)
 - [White iPhone 12 Impressions and Review: Fast](https://www.youtube.com/watch?v=NqdV04HG3xQ)
 - [DaVinci Resolve 17 - Editing Your First Video #2](https://www.youtube.com/watch?v=_EUVaj44-t0)
-- [DaVinci Resolve 17 - BEST FREE Editing Software for Windows & Mac #1](https://www.youtube.com/watch?v=aZYmYq7Po1U)
 <!-- YOUTUBE:END -->
 
 ***
