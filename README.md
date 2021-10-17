@@ -170,10 +170,8 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 17 mins    ████████████████░░░░░░░░░   64.29 % 
-JavaScript   33 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-CSS          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript   27 mins         █████████████████████▒░░░   85.51 % 
+HTML         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
 <!--END_SECTION:waka-->
 
