@@ -10,10 +10,10 @@
 
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hey Siri, Let's Have a Chat!](https://www.youtube.com/watch?v=J_XQRiU1ynE)
+- [Hey Siri, Let&#39;s Have a Chat!](https://www.youtube.com/watch?v=J_XQRiU1ynE)
 - [Top 8 best FREE apps you should try today!](https://www.youtube.com/watch?v=A0AkbxiRYjQ)
 - [Top iOS 15 Features YOU Should Try Today!](https://www.youtube.com/watch?v=mPmvF-bEKQ8)
-- [Best Camera and Equipment for YouTube/Content Creation Beginners (Feat. Unreal Devon Wood)](https://www.youtube.com/watch?v=h4kXbEsj5o8)
+- [Best Camera and Equipment for YouTube/Content Creation Beginners &lpar;Feat. Unreal Devon Wood&rpar;](https://www.youtube.com/watch?v=h4kXbEsj5o8)
 - [Windows 11 First Look: Minimal, beautiful and awesome.](https://www.youtube.com/watch?v=VHzDgxr8N8I)
 <!-- YOUTUBE:END -->
 
