@@ -170,9 +170,7 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-HTML         15 mins         ██████████████████▓░░░░░░   75.20 % 
-JavaScript   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
