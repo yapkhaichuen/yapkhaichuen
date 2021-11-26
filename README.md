@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://angularjs.org/">
-        <img src="./img/angular-icon.svg" width="48" height="48" alt="Angular" />
+      <a href="https://www.r-project.org/about.html">
+        <img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Angular
+      <br>R
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -55,10 +55,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://www.tableau.com/">
+        <img src="./img/tableau-software.svg" width="48" height="48" alt="Tableau" />
       </a>
-      <br>Bootstrap
+      <br>Tableau
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/">
