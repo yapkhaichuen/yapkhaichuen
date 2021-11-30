@@ -170,9 +170,7 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Markdown   20 mins         █████████████▒░░░░░░░░░░░   52.97 % 
-JSX        17 mins         ██████████▓░░░░░░░░░░░░░░   43.05 % 
-HTML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown   20 mins         █████████████████████████   99.76 % 
 ```
 <!--END_SECTION:waka-->
 
