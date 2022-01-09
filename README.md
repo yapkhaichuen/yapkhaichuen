@@ -170,8 +170,8 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Markdown     9 mins          █████████████▓░░░░░░░░░░░   54.45 % 
-Git Config   6 mins          ████████▓░░░░░░░░░░░░░░░░   35.08 % 
+Markdown     9 mins          ██████████████▒░░░░░░░░░░   56.72 % 
+Git Config   6 mins          █████████░░░░░░░░░░░░░░░░   36.54 % 
 ```
 <!--END_SECTION:waka-->
 
