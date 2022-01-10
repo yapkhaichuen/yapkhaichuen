@@ -170,8 +170,7 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Markdown     9 mins          ██████████████▒░░░░░░░░░░   56.72 % 
-Git Config   6 mins          █████████░░░░░░░░░░░░░░░░   36.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
