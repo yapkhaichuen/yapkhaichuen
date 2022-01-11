@@ -170,7 +170,9 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker       20 mins         ███████████▒░░░░░░░░░░░░░   45.44 % 
+JSON         20 mins         ███████████▒░░░░░░░░░░░░░   45.28 % 
+JavaScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 <!--END_SECTION:waka-->
 
