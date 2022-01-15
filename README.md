@@ -10,11 +10,11 @@
 
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [A Mundane Day](https://www.youtube.com/watch?v=iGkUFgZpF3I)
 - [Playing Halo Infinite](https://www.youtube.com/watch?v=LA6VtFz9BaY)
 - [Apple M1 Processors Explained: The future of computing?](https://www.youtube.com/watch?v=8kTnJXBjS0Q)
 - [Hey Siri, Let&#39;s Have a Chat!](https://www.youtube.com/watch?v=J_XQRiU1ynE)
 - [Top 8 best FREE apps you should try today!](https://www.youtube.com/watch?v=A0AkbxiRYjQ)
-- [Top iOS 15 Features YOU Should Try Today!](https://www.youtube.com/watch?v=mPmvF-bEKQ8)
 <!-- YOUTUBE:END -->
 
 ***
