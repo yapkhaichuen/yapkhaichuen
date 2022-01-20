@@ -33,7 +33,6 @@ def short_summary():
             "Last updated": date_current,
             "Cases": case_results,
             "Deaths": death_results,
-            "Generated": current_time
       }
       ]
       """save data to json file"""
