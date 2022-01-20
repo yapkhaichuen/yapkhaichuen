@@ -7,7 +7,7 @@
 ![Banner](banner2.0.png)
 
 ***
-<h3 align="left">Data:</h3>
+<h2 align="left">Information</h3>
 
 > Covid-19 Statistics in Malaysia.
 
