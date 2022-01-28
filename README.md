@@ -20,7 +20,6 @@
 ***
 
 
-
 <h3 align="left">My socials:</h3>
 
 > Connect with me.
