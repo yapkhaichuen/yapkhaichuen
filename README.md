@@ -7,15 +7,6 @@
 ![Banner](banner2.0.png)
 
 ***
-<h2 align="left">Information</h3>
-
-> Covid-19 Statistics in Malaysia.
-
-<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-01-27</td><td class="cases-td td_num">5439</td><td class="deaths-td td_num">10</td></tr></tbody></table>
-<!-- MARKDOWN-AUTO-DOCS:END -->
-
-***
 
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
