@@ -40,6 +40,7 @@
  
 <a href="https://instagram.com/khaichuenyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaichuenyap" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simply software" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simply software" height="30" width="40" /></a>
+<a href="https://twitter.com/KhaiYap" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 
