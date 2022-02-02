@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yapkhaichuen.yapkhaichuen)
 
-![Banner](https://cdn.dribbble.com/users/720738/screenshots/3257484/cool_data_3.gif)
+![Banner](./cool_data_3.gif)
 
 
 ***
