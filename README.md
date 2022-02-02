@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yapkhaichuen.yapkhaichuen)
 
-![Banner](.banner.gif)
+![Banner](./banner.gif)
 
 
 ***
