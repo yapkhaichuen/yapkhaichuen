@@ -4,7 +4,8 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yapkhaichuen.yapkhaichuen)
-<img src="https://cdn.dribbble.com/users/720738/screenshots/3257484/cool_data_3.gif">
+
+<img src="https://cdn.dribbble.com/users/720738/screenshots/3257484/cool_data_3.gif" width="30">
 ***
 
 ## 📷 Latest YouTube Videos
