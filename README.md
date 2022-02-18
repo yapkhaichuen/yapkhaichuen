@@ -172,12 +172,12 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 53 mins
+Total: 1 hr 52 mins
 
-JSON         55 mins         ████████████░░░░░░░░░░░░░   48.51 % 
-Python       32 mins         ███████▒░░░░░░░░░░░░░░░░░   28.68 % 
-Bash         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
-PowerShell   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JSON         55 mins         ████████████▒░░░░░░░░░░░░   48.90 % 
+Python       31 mins         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Bash         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
+PowerShell   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 <!--END_SECTION:waka-->
 
