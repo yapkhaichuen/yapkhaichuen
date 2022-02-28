@@ -21,17 +21,6 @@
 
 ***
 
-
-<h3 align="left">My socials:</h3>
-
-> Connect with me.
-
-<p align="center">
-  [![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere/)
-  [![twitter](https://img.shields.io/badge/Twitter-#00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhaiYap)
-</p>
-
-
 <br>
 
 <h2 align="left" id="yapkhaichuen">Favorite Tech</h2>
