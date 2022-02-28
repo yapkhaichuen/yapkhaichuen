@@ -33,7 +33,7 @@
       <a href="https://docs.microsoft.com/en-us/powershell/">
         <img src="./img/PowerShell_Core_6.0_icon.png" width="48" height="48" alt="PowerShell" />
       </a>
-      <br>R
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
