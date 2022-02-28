@@ -23,8 +23,6 @@
 
 ***
 
-<br>
-
 <h2 align="left" id="yapkhaichuen">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
