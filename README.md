@@ -1,12 +1,11 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Khai Chuen</h1>
 <h3 align="center">Data and visualization enthusiast</h3>
-
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=yapkhaichuen.yapkhaichuen)
 
-![Banner](./banner.gif)
-
+<div align="center">
+  [![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaichuenyap/)
+  [![twitter.com](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhaiYap)
+</div>
 
 ***
 
