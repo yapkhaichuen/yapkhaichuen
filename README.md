@@ -110,10 +110,10 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="https://vuejs.org/">
-        <img src="./img/Vue.js_Logo_2.svg" width="48" height="48" alt="Vue" />
+      <a href="https://jupyter.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Vue" />
       </a>
-      <br>Vue
+      <br>Jupyter Notebook
     </td>
     <td align="center"  width="96">
       <a href="https://www.mysql.com/">
