@@ -110,10 +110,10 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="https://jupyter.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Vue" />
+      <a href="https://ubuntu.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="48" height="48" alt="Vue" />
       </a>
-      <br>Jupyter Notebook
+      <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a href="https://www.mysql.com/">
