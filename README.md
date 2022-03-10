@@ -13,16 +13,6 @@
 
 ***
 
-## Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-- [Pocket Pentesting with Raspberry Pi Zero 2 W](https://yapkhaichuen.github.io//2022/02/25/Pocket-Pentesting.html)
-- [Daily Covid Report](https://yapkhaichuen.github.io//2022/02/19/Covid19-Report.html)
-- [WDR Paper Computer](https://yapkhaichuen.github.io//2022/02/19/WDR-Paper-Computer.html)
-- [Customising my Windows Terminal - Powershell/Bash](https://yapkhaichuen.github.io//2022/02/18/Customising-my-Windows-Terminal-Powershell-Bash.html)
-<!-- BLOG-POST-LIST:END -->
-
-***
-
 <h2 align="left" id="yapkhaichuen">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
