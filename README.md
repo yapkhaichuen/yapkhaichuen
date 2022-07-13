@@ -148,7 +148,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   19 mins         ████████████▓░░░░░░░░░░░░   51.05 %
+MDX          14 mins         █████████▓░░░░░░░░░░░░░░░   38.23 %
+Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
